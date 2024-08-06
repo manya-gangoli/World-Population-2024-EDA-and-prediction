@@ -28,7 +28,7 @@
   <li>Scikit Learn</li>
   <li>Jupyter Notebook</li>
 </ul>
-<b><h2>PackagesInstallation:</h2></b>
+<b><h2>Packages Installation:</h2></b>
     <ul>
 <li>pip install numpy</li>
 <li>pip install pandas</li>
